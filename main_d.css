@@ -1,0 +1,36 @@
+
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#dscrptn {
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14pt;
+    color: #818181;
+}
+
+#swordname {
+    font-family: "Classico-URW";
+    font-size: 40pt;
+}
+
+#swordsr {
+    font-family: "Roboto";
+    font-weight: 300;
+    font-size: 18pt;
+}
+
+#prc {
+    font-family: "ff-enzo-web";
+    font-weight: Light;
+    font-size: 34pt;
+    color: #ff9c00;
+}
+
+#btn {
+    font-family: "Roboto";
+    font-size: 15pt;
+}
