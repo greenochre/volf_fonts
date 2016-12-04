@@ -1,5 +1,4 @@
 
-
 body {
     background-color: black;
     color: white;
@@ -25,7 +24,7 @@ body {
 
 #prc {
     font-family: "ff-enzo-web";
-    font-weight: Light;
+    font-weight: 300;
     font-size: 34pt;
     color: #ff9c00;
 }
